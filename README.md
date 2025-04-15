@@ -1,3 +1,3 @@
 # git_course
 
-### hello wolrd
+## hello world
